@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CMM Trabalho 1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="addressResource">Morada</string>
+    <string name="cityResource">Cidade</string>
+    <string name="postalCodeResource">Código Postal</string>
+    <string name="descriptionResource">Descrição</string>
+    <string name="installationTypeResource">Tipo Instalação</string>
+    <string name="markAsFinishedResource">Marcar como concluído</string>
+    <string name="google_android_map_api_key">AIzaSyD4Zd8gjykWztITuVOEOgZ5jiC0P1Sbg2Y</string>
+    <string name="showFinishedResource">Ver Concluídos</string>
+    <string name="newRecordResource">Novo Registo</string>
+    <string name="ActionsResource">Ações</string>
+    <string name="saveResource">Gravar Registo</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
